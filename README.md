@@ -1,4 +1,4 @@
-# AgeInDays
+# Age In Days
 A simple android app that calculates your age in Days
 
 Optimized according to Android 12.
